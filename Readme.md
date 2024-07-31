@@ -20,6 +20,3 @@ Este projeto apresenta algumas funcionalidades, onde o usuário pode:
 - Buscar por vídeos
 - Visualizar o seu histórico de buscas
 - Acessar o histórico de vídeos assistidos
-
-
-[Link para visualizar o projeto funcionando](https://desafio-frontend-arthur-stofeles.000webhostapp.com/)
